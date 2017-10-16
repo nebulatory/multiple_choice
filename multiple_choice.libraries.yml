@@ -4,3 +4,4 @@ multiple_choice.widget:
     assets/js/answers.js: {}
   dependencies:
     - core/jquery
+    - core/jquery.once
