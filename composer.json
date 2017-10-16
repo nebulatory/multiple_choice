@@ -1,0 +1,21 @@
+{
+  "name": "nebulatory/multiple_choice",
+  "description": "A drupal module which provides a field type for multiple choice questions.",
+  "type": "drupal-module",
+  "homepage": "https://nebula.ge",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Vazha Asatiani",
+      "email": "asatianivaja@gmail.com",
+      "role": "Developer"
+    }
+  ],
+  "support": {
+    "issues": "https://github.com/nebulatory/multiple_choice/issues",
+    "source": "https://github.com/nebulatory/multiple_choice"
+  },
+  "minimum-stability": "dev",
+  "require": {
+  }
+}

@@ -1,0 +1,6 @@
+multiple_choice.widget:
+  version: VERSION
+  js:
+    assets/js/answers.js: {}
+  dependencies:
+    - core/jquery

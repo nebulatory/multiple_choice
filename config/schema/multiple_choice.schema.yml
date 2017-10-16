@@ -1,0 +1,9 @@
+# Schema for the configuration files of the 'multiple choice' module.
+
+field.widget.settings.multiple_choice_widget:
+  type: mapping
+  label: 'Text area (multiple rows) display format settings'
+  mapping:
+    rows:
+      type: integer
+      label: 'Rows'
