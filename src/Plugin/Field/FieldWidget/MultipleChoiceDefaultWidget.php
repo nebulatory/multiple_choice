@@ -65,7 +65,7 @@ class MultipleChoiceDefaultWidget extends StringTextareaWidget implements Widget
       $element['mcdw']['answers'][$i]['correct'] = [
         '#type' => 'checkbox',
         '#title' => t('Correct answer'),
-        '#attributes' => ['class' => ['mcdw-radio'], 'checked' => $answer['correct']],
+        '#attributes' => ['class' => ['mcdw-checkbox'], 'checked' => $answer['correct']],
         '#default_value' => $answer['correct'],
         '#return_value' => 'yes',
       ];
